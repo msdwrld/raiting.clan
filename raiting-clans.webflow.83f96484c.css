@@ -270,21 +270,25 @@ ol {
 .w-list-unstyled {
     padding-left: 0;
     list-style: none;
+   font-size: 24px;
 }
 
 .w-list-unstyled2 {
     padding-left: 150;
     list-style: none;
+   font-size: 24px;
 }
 
 .w-list-unstyled3 {
     padding-left: 300;
     list-style: none;
+   font-size: 24px;
 }
 
 .w-list-unstyled4 {
     padding-left: 450;
     list-style: none;
+   font-size: 24px;
 }
 
 .w-embed:before,
